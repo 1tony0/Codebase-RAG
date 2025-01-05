@@ -2,7 +2,7 @@
 
 **Problem Statement**
 
-LLMs trained on fixed datasets can quickly become outdated as the internet and information evolve. For example, a GPT-3 model trained in 2023 might not be able to answer questions about events that happened in 2024.
+LLMs trained on fixed datasets can quickly become outdated as the internet and information evolve. For example, a GPT-3 model trained in 2023 might not be able to answer questions about events in 2024.
 
 **Solution**
 
