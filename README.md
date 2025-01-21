@@ -1,4 +1,4 @@
-**# LLM and RAG Correlation**
+** LLM and RAG Correlation**
 
 **Problem Statement**
 
