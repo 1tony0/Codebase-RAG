@@ -12,7 +12,7 @@ One potential solution is to continuously retrain LLMs on the latest internet da
 
 Retrieval-Augmented Generation (RAG) offers a promising alternative. RAG combines retrieval and generation techniques. It retrieves relevant information from a massive dataset and uses an LLM to generate a response based on the retrieved information. By constantly updating the retrieved information, RAG models can potentially stay up-to-date.
 
-**Dependencies**
+**Dependencies** 
 
 * sentence-transformers
 * sklearn.metrics.pairwise
