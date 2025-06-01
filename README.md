@@ -19,7 +19,7 @@ Retrieval-Augmented Generation (RAG) offers a promising alternative. RAG combine
 * langchain-pinecone
 * langchain.embeddings
 * langchain-community.embeddings
-* google.colab (optional)
+* google.colab (optional) 
 * pinecone
 * os
 * tempfile
